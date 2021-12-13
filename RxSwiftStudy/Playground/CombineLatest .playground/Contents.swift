@@ -33,6 +33,10 @@ languages.onNext("RxSwift")
 
 //둘 중 하나만 값이 들어가면 안된다.
 
+languages.onNext("RxJava")
+
+
+
 
 
 

@@ -30,6 +30,8 @@
 		0652BEAB27660B8B00DB6D4E /* 001.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 001.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		0652BEAC27660F4900DB6D4E /* Filter.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Filter.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		0652BEAD2766101D00DB6D4E /* CombineLatest .playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "CombineLatest .playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		068FC545276611F40034E2E7 /* Map.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Map.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		068FC546276615680034E2E7 /* Scheduler.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Scheduler.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,8 @@
 				0652BEAB27660B8B00DB6D4E /* 001.playground */,
 				0652BEAC27660F4900DB6D4E /* Filter.playground */,
 				0652BEAD2766101D00DB6D4E /* CombineLatest .playground */,
+				068FC545276611F40034E2E7 /* Map.playground */,
+				068FC546276615680034E2E7 /* Scheduler.playground */,
 			);
 			path = Playground;
 			sourceTree = "<group>";
